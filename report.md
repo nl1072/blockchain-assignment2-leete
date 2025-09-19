@@ -11,3 +11,7 @@
 3. EIP-559 was a change to Ethereum's network transaction fee processing. Originally the gas fee was set by highest-bidder (which made transactions on high-traffic networks expensive). With EIP-559 transaction fees are now the same for everyone on the network, calculated as base (calculated based on actual network traffic) + tip (a priority fee to expedite transactions).
 
 ## Screenshots:
+<img width="2560" height="1368" alt="Screenshot 2025-09-18 215500" src="https://github.com/user-attachments/assets/1a41a71a-b5c4-4ba8-844f-277f2b5d03dc" />
+<img width="2560" height="1368" alt="Screenshot 2025-09-18 220321" src="https://github.com/user-attachments/assets/c28f2471-c90a-4bbf-9c88-f5099e30fe75" />
+<img width="2560" height="1368" alt="Screenshot 2025-09-18 221840" src="https://github.com/user-attachments/assets/6c578e34-e140-4624-bc3d-c9bd40b11b42" />
+<img width="2560" height="1368" alt="Screenshot 2025-09-18 221847" src="https://github.com/user-attachments/assets/0c9ac5d0-d2a8-459a-9af7-b6f1dbc985c2" />
